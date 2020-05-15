@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">emailvarificationapp</string>
+
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+    <!-- Change the following strings as required -->
+    <string name="back4app_app_id">DIrL7YZ404CW2bGnFC5neynE4fdmwszIWE9Xb3EX</string>
+    <string name="back4app_client_key">CKZEMlKnzub5jOnDCIs239ItNcAhcHs8mWP2gmwv</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+</resources>
+
