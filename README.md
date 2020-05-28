@@ -37,3 +37,6 @@ LIKE , COMMENT PAGE
 
 
 <img src="screenshoot/like.jpg" width="96">             <img src="screenshoot/comment.jpg" width="96">
+
+App use parse server
+
