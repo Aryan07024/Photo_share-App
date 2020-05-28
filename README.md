@@ -40,3 +40,6 @@ LIKE , COMMENT PAGE
 
 App use parse server
 
+
+<img src="screenshoot/server.png" width="296">          <img src="screenshoot/server1.png" width="296">
+<img src="screenshoot/server2.png" width="296">
